@@ -19,3 +19,22 @@ Projeto desenvolvido durante a **[Curso Web-Moderno JS 2020](https://www.cod3r.c
 - [React](https://reactjs.org) 
 - [Javascript](https://www.javascript.com/)
 
+## Rodando o projeto 🚴🏻‍♂️
+
+```bash
+
+# Clone o repositório
+$ git clone https://github.com/arthurfortunato/COD3R-Calculadora.git
+
+# Acesse a pasta do projeto no prompt de comando
+$ cd COD3R-Calculadora
+
+# Instale as dependências
+$ yarn install
+
+# Execute o script "start"
+$ yarn start
+
+# O projeto inciará na porta: 3000 - acesse http://localhost:3000 
+```
+
